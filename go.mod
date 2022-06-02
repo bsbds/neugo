@@ -1,4 +1,4 @@
-module github.com/neucn/neugo
+module github.com/bsbds/neugo
 
 go 1.16
 
